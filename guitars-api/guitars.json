@@ -1,0 +1,115 @@
+{
+  "data": [
+    {
+      "name": "Fender Stratocaster",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/images/fender_stratocaster.jpg",
+      "summary": "Classic American electric guitar.",
+      "overall_rating": 4.8,
+      "body_rating": 4.7,
+      "hardware_rating": 4.9,
+      "sound_rating": 4.8,
+      "value_rating": 4.6,
+      "description": "<p>The Fender Stratocaster is a versatile electric guitar known for its bright, rich tones.</p>"
+    },
+    {
+      "name": "Gibson Les Paul Standard",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/images/gibson_les_paul.jpg",
+      "summary": "Iconic rock guitar.",
+      "overall_rating": 4.9,
+      "body_rating": 4.8,
+      "hardware_rating": 4.9,
+      "sound_rating": 4.9,
+      "value_rating": 4.7,
+      "description": "<p>The Gibson Les Paul Standard is famous for its thick, warm tones and sustain.</p>"
+    },
+    {
+      "name": "Ibanez RG550",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/images/ibanez_rg550.jpg",
+      "summary": "Shredders’ favorite guitar.",
+      "overall_rating": 4.7,
+      "body_rating": 4.6,
+      "hardware_rating": 4.8,
+      "sound_rating": 4.7,
+      "value_rating": 4.5,
+      "description": "<p>The Ibanez RG550 is known for fast necks and powerful pickups.</p>"
+    },
+    {
+      "name": "PRS Custom 24",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/images/prs_custom24.jpg",
+      "summary": "High-end versatile guitar.",
+      "overall_rating": 4.9,
+      "body_rating": 4.9,
+      "hardware_rating": 4.9,
+      "sound_rating": 4.8,
+      "value_rating": 4.7,
+      "description": "<p>The PRS Custom 24 is highly regarded for its craftsmanship and tone flexibility.</p>"
+    },
+    {
+      "name": "Epiphone Casino",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/images/epiphone_casino.jpg",
+      "summary": "Classic hollow-body electric.",
+      "overall_rating": 4.6,
+      "body_rating": 4.5,
+      "hardware_rating": 4.6,
+      "sound_rating": 4.7,
+      "value_rating": 4.6,
+      "description": "<p>The Epiphone Casino is famous for its use by the Beatles and its hollow-body resonance.</p>"
+    },
+    {
+      "name": "Gibson SG Standard",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/images/gibson_sg.jpg",
+      "summary": "Rock legend guitar.",
+      "overall_rating": 4.8,
+      "body_rating": 4.7,
+      "hardware_rating": 4.8,
+      "sound_rating": 4.8,
+      "value_rating": 4.6,
+      "description": "<p>The Gibson SG Standard is known for aggressive tone and sleek design.</p>"
+    },
+    {
+      "name": "Fender Telecaster",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/images/fender_telecaster.jpg",
+      "summary": "The twang king.",
+      "overall_rating": 4.7,
+      "body_rating": 4.6,
+      "hardware_rating": 4.7,
+      "sound_rating": 4.7,
+      "value_rating": 4.5,
+      "description": "<p>The Telecaster is renowned for its bright tone and simple, reliable design.</p>"
+    },
+    {
+      "name": "Yamaha Pacifica 112V",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/images/yamaha_pacifica.jpg",
+      "summary": "Great beginner to intermediate guitar.",
+      "overall_rating": 4.5,
+      "body_rating": 4.5,
+      "hardware_rating": 4.5,
+      "sound_rating": 4.6,
+      "value_rating": 4.6,
+      "description": "<p>Yamaha Pacifica 112V is loved for its versatility and affordability.</p>"
+    },
+    {
+      "name": "ESP LTD EC-1000",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/images/esp_ltd_ec1000.jpg",
+      "summary": "Modern metal favorite.",
+      "overall_rating": 4.8,
+      "body_rating": 4.7,
+      "hardware_rating": 4.8,
+      "sound_rating": 4.8,
+      "value_rating": 4.6,
+      "description": "<p>The ESP LTD EC-1000 is designed for modern rock and metal players.</p>"
+    },
+    {
+      "name": "Gretsch G2622 Streamliner",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/images/gretsch_g2622.jpg",
+      "summary": "Semi-hollowbody with classic tone.",
+      "overall_rating": 4.7,
+      "body_rating": 4.6,
+      "hardware_rating": 4.7,
+      "sound_rating": 4.7,
+      "value_rating": 4.5,
+      "description": "<p>The Gretsch G2622 Streamliner is excellent for rockabilly, blues, and jazz tones.</p>"
+    }
+git push
+  ]
+}
