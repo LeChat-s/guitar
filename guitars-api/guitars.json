@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "Fender Stratocaster",
-      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/guitars-api/images/fender_stratocaster.png",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitar/main/guitars-api/images/fender_stratocaster.png",
       "summary": "Classic American electric guitar.",
       "overall_rating": 4.8,
       "body_rating": 4.7,
@@ -13,7 +13,7 @@
     },
     {
       "name": "Gibson Les Paul Standard",
-      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/guitars-api/images/gibson_les_paul.png",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitar/main/guitars-api/images/gibson_les_paul.png",
       "summary": "Iconic rock guitar.",
       "overall_rating": 4.9,
       "body_rating": 4.8,
@@ -24,7 +24,7 @@
     },
     {
       "name": "Ibanez RG550",
-      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/guitars-api/images/ibanez_rg550.png",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitar/main/guitars-api/images/ibanez_rg550.png",
       "summary": "Shredders’ favorite guitar.",
       "overall_rating": 4.7,
       "body_rating": 4.6,
@@ -35,7 +35,7 @@
     },
     {
       "name": "PRS Custom 24",
-      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/guitars-api/images/prs_custom24.png",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitar/main/guitars-api/images/prs_custom24.png",
       "summary": "High-end versatile guitar.",
       "overall_rating": 4.9,
       "body_rating": 4.9,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Epiphone Casino",
-      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/guitars-api/images/epiphone_casino.png",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitar/main/guitars-api/images/epiphone_casino.png",
       "summary": "Classic hollow-body electric.",
       "overall_rating": 4.6,
       "body_rating": 4.5,
@@ -57,7 +57,7 @@
     },
     {
       "name": "Gibson SG Standard",
-      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/guitars-api/images/gibson_sg.png",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitar/main/guitars-api/images/gibson_sg.png",
       "summary": "Rock legend guitar.",
       "overall_rating": 4.8,
       "body_rating": 4.7,
@@ -68,7 +68,7 @@
     },
     {
       "name": "Fender Telecaster",
-      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/guitars-api/images/fender_telecaster.png",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitar/main/guitars-api/images/fender_telecaster.png",
       "summary": "The twang king.",
       "overall_rating": 4.7,
       "body_rating": 4.6,
@@ -79,7 +79,7 @@
     },
     {
       "name": "Yamaha Pacifica 112V",
-      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/guitars-api/images/yamaha_pacifica.png",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitar/main/guitars-api/images/yamaha_pacifica.png",
       "summary": "Great beginner to intermediate guitar.",
       "overall_rating": 4.5,
       "body_rating": 4.5,
@@ -90,7 +90,7 @@
     },
     {
       "name": "ESP LTD EC-1000",
-      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/guitars-api/images/esp_ltd_ec1000.png",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitar/main/guitars-api/images/esp_ltd_ec1000.png",
       "summary": "Modern metal favorite.",
       "overall_rating": 4.8,
       "body_rating": 4.7,
@@ -101,7 +101,7 @@
     },
     {
       "name": "Gretsch G2622 Streamliner",
-      "image": "https://raw.githubusercontent.com/LeChat-s/guitars-api/main/guitars-api/images/gretsch_g2622.png",
+      "image": "https://raw.githubusercontent.com/LeChat-s/guitar/main/guitars-api/images/gretsch_g2622.png",
       "summary": "Semi-hollowbody with classic tone.",
       "overall_rating": 4.7,
       "body_rating": 4.6,
